@@ -2,8 +2,8 @@
 
 html,
 body {
-  height: 98%;
-  width: 98%;
+  height: 100%;
+  width: 100%;
 }
 
 body {
@@ -19,7 +19,7 @@ body {
     height: 100%;
     justify-content: center;
     text-align: center;
-    width: 98%;
+    width: 100%;
 }
 
 .container { 
